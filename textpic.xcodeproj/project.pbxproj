@@ -13,6 +13,8 @@
 		04459B1D217C516A0012FC13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04459B1B217C516A0012FC13 /* Main.storyboard */; };
 		04459B1F217C516A0012FC13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04459B1E217C516A0012FC13 /* Assets.xcassets */; };
 		04459B22217C516A0012FC13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04459B20217C516A0012FC13 /* LaunchScreen.storyboard */; };
+		04459B2A217C724A0012FC13 /* timg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04459B29217C724A0012FC13 /* timg.jpeg */; };
+		04459B2C217C76610012FC13 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 04459B2B217C76610012FC13 /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		04459B1E217C516A0012FC13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04459B21217C516A0012FC13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04459B23217C516A0012FC13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04459B29217C724A0012FC13 /* timg.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg.jpeg; sourceTree = "<group>"; };
+		04459B2B217C76610012FC13 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 		04459B11217C516A0012FC13 /* textpic */ = {
 			isa = PBXGroup;
 			children = (
+				04459B2B217C76610012FC13 /* 1.png */,
+				04459B29217C724A0012FC13 /* timg.jpeg */,
 				04459B15217C516A0012FC13 /* AppDelegate.h */,
 				04459B16217C516A0012FC13 /* AppDelegate.m */,
 				04459B18217C516A0012FC13 /* ViewController.h */,
@@ -140,7 +146,9 @@
 			files = (
 				04459B22217C516A0012FC13 /* LaunchScreen.storyboard in Resources */,
 				04459B1F217C516A0012FC13 /* Assets.xcassets in Resources */,
+				04459B2A217C724A0012FC13 /* timg.jpeg in Resources */,
 				04459B1D217C516A0012FC13 /* Main.storyboard in Resources */,
+				04459B2C217C76610012FC13 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
